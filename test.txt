@@ -1,2 +1,6 @@
 1. git training
-4.xiaolong
+<<<<<<< HEAD
+=======
+2.beta
+3.dev
+>>>>>>> dev
