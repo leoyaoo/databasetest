@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
+//test for git control
 public class MainActivity extends Activity {
     private MyDatabaseHelper dbHelper;
 
